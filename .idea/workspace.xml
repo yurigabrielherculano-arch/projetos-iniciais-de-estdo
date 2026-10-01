@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="582b0eda-be68-443d-b9c1-317e0339e1e2" name="Changes" comment="calculadora grafica com tkinter">
+      <change afterPath="$PROJECT_DIR$/.idea/Projetos inicais  de estudo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/calculadora/calculadora.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000050743743318" />
+      <entry key="MS500" value="1.1934061357761434" />
+      <entry key="S2" value="2.835141315342767" />
+      <entry key="S5" value="4.5353682754877305" />
+      <entry key="S10" value="5.553172065859087" />
+      <entry key="S30" value="6.461092015175856" />
+      <entry key="S60" value="6.876455221109612" />
+      <entry key="M2" value="8.64230874611022" />
+      <entry key="M5" value="19.559748074445203" />
+      <entry key="M10" value="38.33874054081966" />
+      <entry key="M15" value="54.76320968495035" />
+      <entry key="M30" value="98.62585326243699" />
+      <entry key="H1" value="167.23752679871802" />
+      <entry key="H2" value="244.3916885034454" />
+      <entry key="H4" value="307.2162753871176" />
+      <entry key="D1" value="380.34942301235486" />
+      <entry key="W1" value="395.4072164177906" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.2260796122697298E-139" />
+      <entry key="S5" value="3.4595234347841504E-56" />
+      <entry key="S10" value="1.859979417841883E-28" />
+      <entry key="S30" value="5.709310829466148E-10" />
+      <entry key="S60" value="2.4358177389591575E-5" />
+      <entry key="M2" value="0.0059591594431534015" />
+      <entry key="M5" value="0.2650475964659935" />
+      <entry key="M10" value="1.2387364672633034" />
+      <entry key="M15" value="2.2035141670385374" />
+      <entry key="M30" value="4.092018746845725" />
+      <entry key="H1" value="5.682039422770971" />
+      <entry key="H2" value="6.730076860380053" />
+      <entry key="H4" value="7.334286849624412" />
+      <entry key="D1" value="7.884491692203451" />
+      <entry key="W1" value="7.983383302756002" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9659860266779521" />
+      <entry key="MS500" value="1.1840622245773351" />
+      <entry key="S2" value="2.6988667614258555" />
+      <entry key="S5" value="4.346266437886698" />
+      <entry key="S10" value="5.4084808190239295" />
+      <entry key="S30" value="6.396681468277515" />
+      <entry key="S60" value="6.837909221242967" />
+      <entry key="M2" value="8.608025551159363" />
+      <entry key="M5" value="19.756974687959694" />
+      <entry key="M10" value="39.498723622654346" />
+      <entry key="M15" value="56.884686513999995" />
+      <entry key="M30" value="102.6326665009026" />
+      <entry key="H1" value="172.8444866926801" />
+      <entry key="H2" value="251.0679656362657" />
+      <entry key="H4" value="314.5175428333446" />
+      <entry key="D1" value="388.2272858412677" />
+      <entry key="W1" value="403.38962053267494" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3K66Fihk7HFaoqQrt5tSiZMMH1k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.calculadora.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="calculadora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Projetos inicais  de estudo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/calculadora" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculadora/calculadora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.calculadora" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="582b0eda-be68-443d-b9c1-317e0339e1e2" name="Changes" comment="" />
+      <created>1790865570263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790865570263</updated>
+    </task>
+    <task id="LOCAL-00001" summary="calculadora grafica com tkinter">
+      <option name="closed" value="true" />
+      <created>1790881194006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790881194006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="calculadora grafica com tkinter" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculadora grafica com tkinter" />
+  </component>
+</project>
